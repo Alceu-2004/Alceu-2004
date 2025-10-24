@@ -7,7 +7,7 @@ Gosto de construir projetos práticos para o meu portfólio e aprender novas tec
 ---
 
 ## 🧠 Tecnologias
-- **Linguagens:** Java · JavaScript · Python  
+- **Linguagens:** Java · JavaScript · TypeScript · Python
 - **Frontend:** React · HTML · CSS · MUI  
 - **Backend:** Spring Boot · Node.js · Express · PostgreSQL  
 - **DevOps / Tools:** Git · Docker · GitHub Actions · Postman
