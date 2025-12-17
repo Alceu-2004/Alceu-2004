@@ -16,6 +16,7 @@ Gosto de construir projetos práticos para o meu portfólio e aprender novas tec
 
 ## 🚀 Projeto em destaque
 - [EventRank](https://github.com/Alceu-2004/eventrank) — API em **Spring Boot** para avaliação de eventos.
+- [CineVault](https://github.com/Alceu-2004/CineVault) - Aplicativo Movel com APK via **EAS** para controle de filmes assistidos e de filmes que quer assistir.
 
 ---
 
