@@ -13,9 +13,9 @@
 
 ## 👨‍💻 Sobre mim
 
-Olá! Sou o **Alceu**, estudante de **Sistemas de Informação** e **Engenharia de Software**, com foco em desenvolvimento **Backend** com Java e Spring Boot.
+Olá! Sou o Alceu, estudante de Sistemas de Informação e Engenharia de Software, focado em desenvolvimento Backend com Java e Spring Boot.
 
-Apaixonado por arquitetura de software, construção de APIs robustas e projetos que resolvem problemas reais — do banco de dados ao container em produção.
+Tenho interesse em construção de APIs REST, arquitetura de software, segurança, bancos de dados e containerização. Gosto de transformar conceitos de engenharia de software em aplicações funcionais, organizadas e bem estruturadas.
 
 ```java
 public class Alceu extends Developer {
@@ -39,13 +39,13 @@ public class Alceu extends Developer {
 
 ---
 
-## 🚀 Projeto em Destaque
+## 🚀 Projetos em Destaque
 
 <table>
   <tr>
     <td width="60%">
       <h3>🏆 EventRank</h3>
-      <p>Sistema <strong>full stack</strong> para avaliação e ranking de eventos, com autenticação segura e arquitetura orientada a boas práticas.</p>
+      <p>Sistema <strong>Full Stack</strong> para avaliação e ranking de eventos, desenvolvido com foco em segurança, organização arquitetural e boas práticas de desenvolvimento.</p>
       <ul>
         <li>API REST com <strong>Java + Spring Boot</strong></li>
         <li>Autenticação e autorização via <strong>JWT</strong></li>
@@ -53,9 +53,11 @@ public class Alceu extends Developer {
         <li>Versionamento de banco com <strong>Flyway</strong></li>
         <li>Ambiente containerizado com <strong>Docker Compose</strong></li>
         <li>Frontend em <strong>React + TypeScript</strong></li>
+        <li>Testes automatizados com <strong>JUnit + Spring Boot Test</strong></li>
+        <li>API documentada e estruturada seguindo <strong>princípios REST</strong></li>
       </ul>
       <a href="https://github.com/Alceu-2004/eventrank">
-        <img src="https://img.shields.io/badge/Ver%20Repositório-e94560?style=for-the-badge&logo=github&logoColor=white" alt="Repositório EventRank"/>
+        <img src="https://img.shields.io/badge/💻%20Ver%20Repositório-EventRank-E94560?style=for-the-badge&logo=github&logoColor=white" alt="Repositório EventRank"/>
       </a>
     </td>
     <td width="40%" align="center">
@@ -71,13 +73,41 @@ public class Alceu extends Developer {
   </tr>
 </table>
 
----
-
-## 📌 Outros Projetos
-
-| Projeto | Descrição | Tecnologias |
-|---------|-----------|-------------|
-| 🎬 [**CineVault**](https://github.com/Alceu-2004/CineVault) | Aplicação colaborativa para gerenciamento e avaliação de filmes, desenvolvida em equipe. | Java · Spring Boot · React |
+<table>
+  <tr>
+    <td width="60%">
+      <h3>🎬 CineVault</h3>
+      <p>Aplicativo <strong>mobile</strong> para descoberta, organização e avaliação de filmes, desenvolvido com React Native + Expo e integrado à API do TMDB.</p>
+      <p>O projeto foi desenvolvido originalmente em equipe e posteriormente evoluído, recebendo melhorias na estrutura, interface, integração com a API e processo de distribuição do aplicativo Android.</p>
+      <ul>
+        <li>Navegação utilizando <strong>Expo Route</strong></li>
+        <li>Persistência local com <strong>AsyncStorage</strong></li>
+        <li>Build Android utilizando <strong>EAS Build</strong></li>
+        <li>Busca de filmes em tempo real através da <strong>API do TMDB</strong></li>
+        <li>Cadastro e login com <strong>múltiplas contas </strong>no mesmo dispositivo</li>
+        <li>Dados isolados entre <strong>diferentes contas</strong></li>
+        <li>Listas de <strong>Assistidos e Quero Assistir</strong></li>
+        <li>Avaliação pessoal dos filmes de <strong>0 a 10</strong></li>
+      </ul>
+      <a href="https://github.com/Alceu-2004/CineVault">
+        <img src="https://img.shields.io/badge/💻%20Ver%20Repositório-CineVault-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Repositório CineVault"/>
+      </a>
+     <a href="https://expo.dev/artifacts/eas/WVRbAiq1mUMyYCMufO5RLSJEa9dKCIDgzzxy1SEb5FQ.apk">
+        <img src="https://img.shields.io/badge/📱%20Baixar%20APK-CineVault-8B5CF6?style=for-the-badge&logo=android&logoColor=white" alt="Baixar CineVault APK">
+     </a>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+      <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white"/>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Expo_Router-000020?style=flat-square&logo=expo&logoColor=white"/>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white"/>
+      <img src="https://img.shields.io/badge/TMDB-01B4E4?style=flat-square&logo=themoviedatabase&logoColor=white"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -103,6 +133,30 @@ public class Alceu extends Developer {
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+### Frontend & Mobile
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![Expo Router](https://img.shields.io/badge/Expo_Router-000020?style=for-the-badge&logo=expo&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
+
+---
+
+## 🎯 Foco atual
+
+Atualmente estou focado em evoluir profissionalmente como desenvolvedor **Backend**, aprofundando meus conhecimentos em:
+
+- Java e Spring Boot
+- APIs REST
+- Spring Security e JWT
+- PostgreSQL
+- Arquitetura de software
+- Docker e containerização
+- Testes automatizados
+
+Também continuo desenvolvendo projetos pessoais para aplicar esses conhecimentos na prática.
+
 ---
 
 ## 📊 GitHub Stats
@@ -117,7 +171,7 @@ public class Alceu extends Developer {
 
 ---
 
-## 📫 Vamos conversar?
+## 📫 Estou aberto a oportunidades, projetos e conexões na área de desenvolvimento de software.
 
 <div align="center">
 
