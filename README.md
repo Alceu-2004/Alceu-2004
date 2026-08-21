@@ -44,6 +44,43 @@ public class Alceu extends Developer {
 <table>
   <tr>
     <td width="60%">
+      <h3>📅 Agendia</h3>
+      <p>Sistema <strong>Full Stack</strong> de agendamento online para pequenos negócios (salões, barbearias, clínicas), com confirmação automática, lembretes por e-mail/WhatsApp e painel multi-tenant isolado por negócio.</p>
+      <ul>
+        <li>Backend com <strong>Django</strong>, seguindo boas práticas de arquitetura</li>
+        <li>Isolamento <strong>multi-tenant</strong>: cada dono acessa apenas os próprios dados</li>
+        <li>Validação de conflito de horário coberta por <strong>testes automatizados</strong></li>
+        <li>Fila assíncrona com <strong>Celery + Redis</strong> para notificações</li>
+        <li>Notificações automáticas por <strong>e-mail transacional</strong> (API HTTP, contornando bloqueios de SMTP em produção)</li>
+        <li>Integração com <strong>WhatsApp Business Cloud API</strong> implementada</li>
+        <li>Persistência com <strong>PostgreSQL</strong></li>
+        <li><strong>Deploy em produção</strong> no Render, com link público funcional</li>
+      </ul>
+      <a href="https://github.com/Alceu-2004/Agendia">
+        <img src="https://img.shields.io/badge/💻%20Ver%20Repositório-Agendia-0EA5E9?style=for-the-badge&logo=github&logoColor=white" alt="Repositório Agendia"/>
+      </a>
+      <a href="https://agendia-jln0.onrender.com">
+        <img src="https://img.shields.io/badge/🔗%20Ver%20Demo-Agendia-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" alt="Demo Agendia"/>
+      </a>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white"/>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white"/>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="60%">
       <h3>🏆 EventRank</h3>
       <p>Sistema <strong>Full Stack</strong> para avaliação e ranking de eventos, desenvolvido com foco em segurança, organização arquitetural e boas práticas de desenvolvimento.</p>
       <ul>
@@ -58,6 +95,9 @@ public class Alceu extends Developer {
       </ul>
       <a href="https://github.com/Alceu-2004/eventrank">
         <img src="https://img.shields.io/badge/💻%20Ver%20Repositório-EventRank-E94560?style=for-the-badge&logo=github&logoColor=white" alt="Repositório EventRank"/>
+      </a>
+      <a href="https://eventrank.vercel.app/">
+        <img src="https://img.shields.io/badge/🔗%20Ver%20Demo-EventRank-E94560?style=for-the-badge&logo=vercel&logoColor=white" alt="Demo EventRank"/>
       </a>
     </td>
     <td width="40%" align="center">
@@ -118,10 +158,14 @@ public class Alceu extends Developer {
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
 
 ### Banco de Dados
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ### Frontend & Mobile
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -130,12 +174,14 @@ public class Alceu extends Developer {
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 ![Expo Router](https://img.shields.io/badge/Expo_Router-000020?style=for-the-badge&logo=expo&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### DevOps & Ferramentas
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 
 ---
 
@@ -150,6 +196,10 @@ Atualmente estou focado em evoluir profissionalmente como desenvolvedor **Backen
 - Arquitetura de software
 - Docker e containerização
 - Testes automatizados
+- Python e Django
+- Processamento assíncrono com Celery e Redis
+- Arquitetura multi-tenant e isolamento de dados
+- Deploy e infraestrutura em produção (Render)
 
 Também continuo desenvolvendo projetos pessoais para aplicar esses conhecimentos na prática.
 
