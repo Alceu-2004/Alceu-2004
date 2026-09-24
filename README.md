@@ -56,7 +56,7 @@ public class Alceu extends Developer {
         <li>Persistência com <strong>PostgreSQL</strong></li>
         <li><strong>Deploy em produção</strong> no Render, com link público funcional</li>
       </ul>
-      <a href="https://github.com/Alceu-2004/Agendia">
+      <a href="https://github.com/Alceu-2004/Agendia-showcase.git">
         <img src="https://img.shields.io/badge/💻%20Ver%20Repositório-Agendia-0EA5E9?style=for-the-badge&logo=github&logoColor=white" alt="Repositório Agendia"/>
       </a>
       <a href="https://agendia-jln0.onrender.com">
