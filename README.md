@@ -78,7 +78,7 @@ Aplicativo Android para descobrir filmes, montar listas de "Assistidos" e "Quero
 
 **Tecnologias:** React Native · Expo · TypeScript · Expo Router · Axios · AsyncStorage
 
-[![Baixar APK](https://img.shields.io/badge/📱%20Baixar%20APK-8B5CF6?style=for-the-badge&logo=android&logoColor=white)](https://expo.dev/artifacts/eas/WVRbAiq1mUMyYCMufO5RLSJEa9dKCIDgzzxy1SEb5FQ.apk)
+[![Baixar APK](https://img.shields.io/badge/📱%20Baixar%20APK-8B5CF6?style=for-the-badge&logo=android&logoColor=white)](https://github.com/Alceu-2004/CineVault/releases/latest/download/CineVault-v1.0.0.apk)
 [![Repositório](https://img.shields.io/badge/💻%20Repositório-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alceu-2004/CineVault)
 
 ---
